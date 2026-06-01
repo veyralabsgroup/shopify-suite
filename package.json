@@ -1,6 +1,6 @@
 {
   "name": "@veyralabs/shopify-suite",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shopify skill pack for Claude Code — developer tools and store auditor",
   "files": [
     "skills/",
