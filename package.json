@@ -1,0 +1,35 @@
+{
+  "name": "@veyralabs/shopify-suite",
+  "version": "0.1.0",
+  "description": "Shopify skill pack for Claude Code — developer tools and store auditor",
+  "files": [
+    "skills/",
+    "commands/"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "shopify",
+    "shopify-theme",
+    "shopify-app",
+    "shopify-liquid",
+    "shopify-hydrogen",
+    "shopify-cli",
+    "shopify-audit",
+    "ecommerce",
+    "developer-tools"
+  ],
+  "author": "VeyraLabs <hello@veyralabs.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veyralabsgroup/shopify-suite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/veyralabsgroup/shopify-suite/issues"
+  },
+  "homepage": "https://github.com/veyralabsgroup/shopify-suite#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
