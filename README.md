@@ -1,6 +1,6 @@
 # @veyralabs/shopify-suite
 
-Two Claude Code skills covering the full Shopify stack — one for developers, one for merchants.
+Two Claude Code skills covering the full Shopify stack - one for developers, one for merchants.
 
 ## Skills
 
@@ -16,9 +16,9 @@ Modes: `theme` / `app` / `api` / `cli` / `hydrogen` / `debug`
 
 Store audit and optimization. Detects available data source automatically:
 
-**Mode A — MCP Connected:** Reads real store data via [shopify-mcp](https://github.com/GeLi2001/shopify-mcp) — products, collections, orders, installed apps, metafields. Full audit with actual numbers.
+**Mode A - MCP Connected:** Reads real store data via [shopify-mcp](https://github.com/GeLi2001/shopify-mcp) - products, collections, orders, installed apps, metafields. Full audit with actual numbers.
 
-**Mode B — Public extraction:** Uses Scrapling on the public storefront when MCP is not configured. Extracts navigation, loaded scripts (app detection), product page markup, meta tags, structured data, canonical URLs.
+**Mode B - Public extraction:** Uses Scrapling on the public storefront when MCP is not configured. Extracts navigation, loaded scripts (app detection), product page markup, meta tags, structured data, canonical URLs.
 
 Audits 6 dimensions: product catalog, collection architecture, navigation, SEO, app stack, conversion signals.
 
@@ -77,7 +77,7 @@ Get credentials by creating a custom app in your Shopify admin with Admin API ac
 Add a sticky add-to-cart button to my Dawn theme
 Create a Shopify app that syncs products to an external CRM
 Write a bulk GraphQL query to update all product metafields
-Audit my Shopify store — find what's hurting conversion
+Audit my Shopify store - find what's hurting conversion
 Which apps should I remove to speed up the store?
 Fix the SEO issues on my product pages
 ```
@@ -87,7 +87,7 @@ Fix the SEO issues on my product pages
 This pack is part of the [veyraskills](https://github.com/veyralabsgroup/veyraskills) collection.
 
 Also available:
-- [@veyralabs/shopify-dev](https://github.com/veyralabsgroup/shopify-dev) — developer skill standalone
-- [@veyralabs/shopify-store](https://github.com/veyralabsgroup/shopify-store) — store auditor standalone
-- [@veyralabs/naming-suite](https://github.com/veyralabsgroup/naming-suite) — startup naming and brand analysis
-- [@veyralabs/webcloner](https://github.com/veyralabsgroup/webcloner) — pixel-accurate website cloning
+- [@veyralabs/shopify-dev](https://github.com/veyralabsgroup/shopify-dev) - developer skill standalone
+- [@veyralabs/shopify-store](https://github.com/veyralabsgroup/shopify-store) - store auditor standalone
+- [@veyralabs/naming-suite](https://github.com/veyralabsgroup/naming-suite) - startup naming and brand analysis
+- [@veyralabs/webcloner](https://github.com/veyralabsgroup/webcloner) - pixel-accurate website cloning
